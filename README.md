@@ -38,4 +38,4 @@
 
 **图6**
 
-更多详细使用教程参见 [cloudflare page 教程（一）项目初始化](https://blog.whyun.com/posts/project-init-on-cloudflare-pages/) 。
+更多详细使用教程参见 [cloudflare page 教程（一）项目初始化](https://github.com) 。

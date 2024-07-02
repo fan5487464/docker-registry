@@ -1,7 +1,7 @@
 {
   "name": "docker-registry",
   "version": "1.0.0",
-  "description": "proxy dockerhub via cloudflare pages",
+  "description": "通过cloudflare页面代理的dockerhub",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whyun-pages/docker-registry.git"
+    "url": "git+https://github.com/fan5487464/docker-registry.git"
   },
   "keywords": [
     "dockerhub",
@@ -20,9 +20,9 @@
   "author": "yunnysunny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whyun-pages/docker-registry/issues"
+    "url": "https://github.com/fan5487464/docker-registry/issues"
   },
-  "homepage": "https://github.com/whyun-pages/docker-registry#readme",
+  "homepage": "https://github.com/fan5487464/docker-registry#readme",
   "devDependencies": {
     "@eslint/js": "^9.6.0",
     "eslint": "^9.6.0",
